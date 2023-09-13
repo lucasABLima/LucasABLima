@@ -1,5 +1,12 @@
-### Hi there 👋
+# Lucas Lima - Software Engineering Student | Developer
 
+👋 Hi, I'm Lucas Lima, a Software Engineering student at Puc Minas with a passion for programming, development (both front-end and back-end), architecture planning, and graphic design.
+
+## About Me
+
+- 📚 Currently a Software Engineering Student at Puc Minas
+- 🎓 Graduate of Cotemig Technical College
+- 💻 Proficient in various programming languages and tools including C, C++, C#, PHP, Next.js, Node.js, Java, JavaScript, HTML, CSS, Kubernetes, Kafka, Redis, Envoy, and more.
 <!--
 **lucasABLima/LucasABLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
