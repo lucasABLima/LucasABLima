@@ -6,7 +6,7 @@
 
 - 📚 Currently a Software Engineering Student at Puc Minas
 - 🎓 Graduate of Cotemig Technical College
-- 💻 Proficient in various programming languages and tools including C, C++, C#, PHP, Next.js, Node.js, Java, JavaScript, HTML, CSS, Kubernetes, Kafka, Redis, Envoy, and more.
+- 💻 Proficient in various programming languages and tools including C, C++, C#, PHP, Next.js, Node.js, Phyton, Java, JavaScript, HTML, CSS, Kubernetes, Kafka, Redis, Envoy, and more.
 <!--
 **lucasABLima/LucasABLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
